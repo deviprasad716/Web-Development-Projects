@@ -83,9 +83,9 @@ This project demonstrates fundamental JavaScript concepts such as DOM manipulati
 - CSS
 - JavaScript
 
-### Screenshot
+### Project Preview
 
-![Blackjack Game Screenshot](preview2.png)
+![Project Preview](project-2_Black-Jack/preview2.png)
 
 ### How to Run
 
