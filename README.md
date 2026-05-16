@@ -58,8 +58,11 @@ A simple subway passenger counter application that allows users to:
 |---|---|---|
 | 2 | Black Jack | HTML, CSS, JavaScript |
 
+---
 
 ## PROJECT - 2 : Black Jack
+
+---
 
 ### Description
 
@@ -69,6 +72,8 @@ Blackjack Game is a simple interactive web-based card game inspired by the class
 
 This project demonstrates fundamental JavaScript concepts such as DOM manipulation, arrays, functions, conditional statements, and event handling while creating an engaging and responsive user interface.
 
+---
+
 ### Features
 
 - Start Game button
@@ -77,21 +82,29 @@ This project demonstrates fundamental JavaScript concepts such as DOM manipulati
 - Dynamic card display
 - Interactive UI
 
+---
+
 ### Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
+---
+
 ### Project Preview
 
 ![Project Preview](project-2_Black-Jack/preview2.png)
+
+---
 
 ### How to Run
 
 1. Download or clone the repository
 2. Open the folder in VS Code
 3. Run `index.html` in browser
+
+---
 
 ### Learning Outcome
 
@@ -103,3 +116,4 @@ This project helped me learn:
 - Conditional Statements
 - Game Logic
 
+---
