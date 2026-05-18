@@ -52,17 +52,13 @@ A simple subway passenger counter application that allows users to:
 
 ---
 
-
-
 | Project 2 | Black-Jack | Technologies |
 |---|---|---|
 | 2 | Black Jack | HTML, CSS, JavaScript |
 
----
+
 
 ## PROJECT - 2 : Black Jack
-
----
 
 ### Description
 
@@ -78,7 +74,7 @@ This project demonstrates fundamental JavaScript concepts such as DOM manipulati
 
 - Start Game button
 - Draw New Card
-- Blackjack win detection
+- Blackjack win detection at sum 21
 - Dynamic card display
 - Interactive UI
 
@@ -117,3 +113,36 @@ This project helped me learn:
 - Game Logic
 
 ---
+
+| Project 3 | Amazon(Clone) | Technologies |
+|---|---|---|
+| 3 | Amazon Clone | HTML, CSS |
+
+## PROJECT - 3 : Amazon Clone
+
+### Description
+
+A simple Amazon homepage clone built using *HTML* and *CSS*.  
+This project was created to practice front-end web development concepts such as layouts, flexbox, positioning, hover effects, and responsive design.
+
+##  Features
+
+- Amazon-inspired homepage UI
+- Responsive navigation bar
+- Search bar design
+- Product sections and cards
+- Hero banner section
+- Footer similar to Amazon
+- Hover effects and styling
+- Clean and beginner-friendly code
+
+##  Technologies Used
+
+- HTML5
+- CSS3
+
+## 🎥 Project Preview
+
+### ▶️ Video Demo
+
+<video src="project-3_Amazon-Clone/preview3.mp4" controls width="700"></video>
