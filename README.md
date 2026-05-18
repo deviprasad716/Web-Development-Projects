@@ -141,8 +141,10 @@ This project was created to practice front-end web development concepts such as 
 - HTML5
 - CSS3
 
-## 🎥 Project Preview
+## Project Preview
 
-### ▶️ Video Demo
+![Project Preview](project-3_Amazon-Clone/preview3_1.png)
 
-<video src="project-3_Amazon-Clone/preview3.mp4" controls width="700"></video>
+## Code Preview
+
+![Project Preview](project-3_Amazon-Clone/preview3_2.png)
