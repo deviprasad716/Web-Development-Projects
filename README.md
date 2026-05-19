@@ -1,20 +1,16 @@
-# Web Development Mini Projects
+# Web Development Mini Projects - TOATL(3)
 
 A collection of mini web development projects built while learning HTML, CSS and JavaScript.
-
----
-
-#  Total Projects:2
-
-| Project 1 | Subway-Passenger-Counter | Technologies |
-|---|---|---|
-| 1 | Subway Passenger Counter | HTML, CSS, JavaScript |
 
 ---
 
 #  Projects
 
 ## PROJECT - 1 : Subway Passenger Counter
+
+| Project 1 | Subway-Passenger-Counter | Technologies |
+|---|---|---|
+| 1 | Subway Passenger Counter | HTML, CSS, JavaScript |
 
 ###  Description
 
@@ -24,7 +20,6 @@ A simple subway passenger counter application that allows users to:
 - Save previous entries
 - Practice DOM manipulation using JavaScript
 
----
 
 ###  Technologies Used
 
@@ -32,7 +27,6 @@ A simple subway passenger counter application that allows users to:
 - CSS3
 - JavaScript
 
----
 
 ###  Algorithm
 
@@ -44,7 +38,6 @@ A simple subway passenger counter application that allows users to:
    - Display previous counts
 4. Dynamically update webpage using DOM manipulation
 
----
 
 ### Project Preview
 
@@ -52,13 +45,13 @@ A simple subway passenger counter application that allows users to:
 
 ---
 
+## PROJECT - 2 : Black Jack
+
+
 | Project 2 | Black-Jack | Technologies |
 |---|---|---|
 | 2 | Black Jack | HTML, CSS, JavaScript |
 
-
-
-## PROJECT - 2 : Black Jack
 
 ### Description
 
@@ -68,8 +61,6 @@ Blackjack Game is a simple interactive web-based card game inspired by the class
 
 This project demonstrates fundamental JavaScript concepts such as DOM manipulation, arrays, functions, conditional statements, and event handling while creating an engaging and responsive user interface.
 
----
-
 ### Features
 
 - Start Game button
@@ -78,29 +69,21 @@ This project demonstrates fundamental JavaScript concepts such as DOM manipulati
 - Dynamic card display
 - Interactive UI
 
----
-
 ### Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
----
-
 ### Project Preview
 
 ![Project Preview](project-2_Black-Jack/preview2.png)
-
----
 
 ### How to Run
 
 1. Download or clone the repository
 2. Open the folder in VS Code
 3. Run `index.html` in browser
-
----
 
 ### Learning Outcome
 
@@ -114,11 +97,13 @@ This project helped me learn:
 
 ---
 
+## PROJECT - 3 : Amazon Clone
+
+
 | Project 3 | Amazon(Clone) | Technologies |
 |---|---|---|
 | 3 | Amazon Clone | HTML, CSS |
 
-## PROJECT - 3 : Amazon Clone
 
 ### Description
 
