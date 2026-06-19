@@ -140,7 +140,7 @@ A simple Chrome Extension built with HTML, CSS, and JavaScript to save and manag
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/leads-tracker.git
+git clone [https://github.com/your-username/leads-tracker.git](https://github.com/deviprasad716/Web-Development-Projects/tree/main/project-4_Link-Tracker-Extension)
 ```
 
 2. Open Chrome and navigate to:
