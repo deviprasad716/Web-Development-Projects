@@ -1,4 +1,4 @@
-# Web Development Mini Projects
+# Web Development Mini Projects - TOTAL(3)
 
 A collection of mini web development projects built while learning HTML, CSS and JavaScript.
 
@@ -13,6 +13,7 @@ A collection of mini web development projects built while learning HTML, CSS and
 | Project 1 | Project Name | Technologies |
 |---|---|---|
 | 1st | Subway Passenger Counter | HTML, CSS, JavaScript |
+
 
 ###  Description
 
