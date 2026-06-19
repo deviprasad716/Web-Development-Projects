@@ -4,17 +4,15 @@ A collection of mini web development projects built while learning HTML, CSS and
 
 ---
 
-#  Total Projects:2
-
-| Project 1 | Subway-Passenger-Counter | Technologies |
-|---|---|---|
-| 1 | Subway Passenger Counter | HTML, CSS, JavaScript |
+#  Total Projects : 4
 
 ---
 
-#  Projects
-
 ## PROJECT - 1 : Subway Passenger Counter
+
+| Project 1 | Project Name | Technologies |
+|---|---|---|
+| 1st | Subway Passenger Counter | HTML, CSS, JavaScript |
 
 ###  Description
 
@@ -24,15 +22,16 @@ A simple subway passenger counter application that allows users to:
 - Save previous entries
 - Practice DOM manipulation using JavaScript
 
----
+## Features
 
-###  Technologies Used
+- Increment passenger count
+- Save count entries
+- Display saved entries
+- Reset count after saving
+- Real-time UI updates
+- Simple and responsive design
+- Built with HTML, CSS, and JavaScript
 
-- HTML5
-- CSS3
-- JavaScript
-
----
 
 ###  Algorithm
 
@@ -44,7 +43,6 @@ A simple subway passenger counter application that allows users to:
    - Display previous counts
 4. Dynamically update webpage using DOM manipulation
 
----
 
 ### Project Preview
 
@@ -52,13 +50,12 @@ A simple subway passenger counter application that allows users to:
 
 ---
 
-| Project 2 | Black-Jack | Technologies |
-|---|---|---|
-| 2 | Black Jack | HTML, CSS, JavaScript |
-
-
-
 ## PROJECT - 2 : Black Jack
+
+| Project 2 | Project Name | Technologies |
+|---|---|---|
+| 2nd | Black Jack | HTML, CSS, JavaScript |
+
 
 ### Description
 
@@ -68,8 +65,6 @@ Blackjack Game is a simple interactive web-based card game inspired by the class
 
 This project demonstrates fundamental JavaScript concepts such as DOM manipulation, arrays, functions, conditional statements, and event handling while creating an engaging and responsive user interface.
 
----
-
 ### Features
 
 - Start Game button
@@ -78,15 +73,14 @@ This project demonstrates fundamental JavaScript concepts such as DOM manipulati
 - Dynamic card display
 - Interactive UI
 
----
+### Algorithm
 
-### Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
----
+1. Generate two random cards.
+2. Calculate and display their sum.
+3. If the sum is less than 21, allow the player to draw a new card.
+4. If the sum equals 21, display "Blackjack!".
+5. If the sum exceeds 21, end the game and display a losing message.
+6. Repeat until the player wins or loses.
 
 ### Project Preview
 
@@ -94,31 +88,11 @@ This project demonstrates fundamental JavaScript concepts such as DOM manipulati
 
 ---
 
-### How to Run
-
-1. Download or clone the repository
-2. Open the folder in VS Code
-3. Run `index.html` in browser
-
----
-
-### Learning Outcome
-
-This project helped me learn:
-
-- DOM Manipulation
-- Functions
-- Arrays
-- Conditional Statements
-- Game Logic
-
----
-
-| Project 3 | Amazon(Clone) | Technologies |
-|---|---|---|
-| 3 | Amazon Clone | HTML, CSS |
-
 ## PROJECT - 3 : Amazon Clone
+
+| Project 3 | Project Name | Technologies |
+|---|---|---|
+| 3rd | Amazon Clone | HTML, CSS |
 
 ### Description
 
@@ -136,10 +110,6 @@ This project was created to practice front-end web development concepts such as 
 - Hover effects and styling
 - Clean and beginner-friendly code
 
-##  Technologies Used
-
-- HTML5
-- CSS3
 
 ## Project Preview
 
@@ -148,3 +118,67 @@ This project was created to practice front-end web development concepts such as 
 ## Code Preview
 
 ![Project Preview](project-3_Amazon-Clone/preview3_2.png)
+
+
+---
+
+## PROJECT - 4 : Link Tracker Extension
+
+| Project 4 |Project Name| Technologies |
+|---|---|---|
+| 4th | Link Tracker Extension | HTML, CSS , JavaScript |
+
+### Description
+
+A simple Chrome Extension built with HTML, CSS, and JavaScript to save and manage useful links (leads).
+
+---
+
+## Installation
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/your-username/leads-tracker.git
+```
+
+2. Open Chrome and navigate to:
+
+```
+chrome://extensions/
+```
+
+3. Enable **Developer Mode**.
+
+4. Click **Load unpacked**.
+
+5. Select the project folder.
+
+6. The extension will appear in your Chrome toolbar.
+
+---
+
+## Features / How to Use:
+
+### Save a URL Manually
+
+1. Enter a URL in the input field.
+2. Click **SAVE INPUT**.
+3. The URL will be stored and displayed in the list.
+
+### Save the Current Tab
+
+1. Open any webpage.
+2. Click the extension icon.
+3. Click **SAVE TAB**.
+4. The current tab's URL will be saved automatically.
+
+### Delete All Leads
+
+--> Double-click the **DELETE ALL** button to remove all saved leads.
+
+---
+
+## Project Preview
+
+![Project Preview](project-4_Link-Tracker-Extension\preview4.png)
