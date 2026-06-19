@@ -182,4 +182,4 @@ chrome://extensions/
 
 ## Project Preview
 
-![Project Preview](project-4_Link-Tracker-Extension\preview4.png)
+![Project Preview](project-4_Link-Tracker-Extension/preview4.png)
