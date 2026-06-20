@@ -1,4 +1,4 @@
-# Web Development Mini Projects - TOTAL(4)
+# Web Development Mini Projects
 
 A collection of mini web development projects built while learning HTML, CSS and JavaScript.
 
