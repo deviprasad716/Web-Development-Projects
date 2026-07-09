@@ -12,7 +12,7 @@ A collection of mini web development projects built while learning HTML, CSS and
 
 | Project No. | Project Name | Technologies |
 |---|---|---|
-| 1 | Subway Passenger Counter | HTML, CSS, JavaScript |
+|    1 | Subway Passenger Counter | HTML, CSS, JavaScript |
 
 
 ###  Description
