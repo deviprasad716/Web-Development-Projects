@@ -10,7 +10,7 @@ A collection of mini web development projects built while learning HTML, CSS and
 
 ## PROJECT - 1 : Subway Passenger Counter
 
-| Project 1 | Project Name | Technologies |
+| Project No. | Project Name | Technologies |
 |---|---|---|
 | 1st | Subway Passenger Counter | HTML, CSS, JavaScript |
 
@@ -53,7 +53,7 @@ A simple subway passenger counter application that allows users to:
 
 ## PROJECT - 2 : Black Jack
 
-| Project 2 | Project Name | Technologies |
+| Project No. | Project Name | Technologies |
 |---|---|---|
 | 2nd | Black Jack | HTML, CSS, JavaScript |
 
@@ -91,7 +91,7 @@ This project demonstrates fundamental JavaScript concepts such as DOM manipulati
 
 ## PROJECT - 3 : Amazon Clone
 
-| Project 3 | Project Name | Technologies |
+| Project No. | Project Name | Technologies |
 |---|---|---|
 | 3rd | Amazon Clone | HTML, CSS |
 
@@ -125,7 +125,7 @@ This project was created to practice front-end web development concepts such as 
 
 ## PROJECT - 4 : Link Tracker Extension
 
-| Project 4 |Project Name| Technologies |
+| Project No. |Project Name| Technologies |
 |---|---|---|
 | 4th | Link Tracker Extension | HTML, CSS , JavaScript |
 
