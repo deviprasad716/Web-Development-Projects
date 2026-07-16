@@ -242,10 +242,12 @@ Step 6: Display result
 The game updates:
 Match result
 
-![Project Preview](project-5_Rock-Paper-Scissor/preview5.png)
+## Project Preview
+
+![Project Preview](project-5_Rock-Paper-Scissor/images/preview5.png)
 Selected moves
 Updated score
 
-## Project Preview
 
-![Project Preview](project-5_Rock-Paper-Scissor\images\preview5.png)
+
+
