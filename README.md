@@ -208,13 +208,13 @@ chrome://extensions/
 
 ### Algorithm
 
--**Step 1: Player selects a move**
+- **Step 1: Player selects a move**
    The player clicks one of the three buttons:
    Rock
    Paper
    Scissors
 
--Step 2: Computer selects a move
+- **Step 2: Computer selects a move**
    The computer generates a random number using:
    Math.random()
    The random value determines the computer's move:
@@ -223,27 +223,27 @@ chrome://extensions/
    1/3 - 2/3	  Paper
    2/3 - 1	     Scissors
 
--Step 3: Compare moves
+- **Step 3: Compare moves**
    The program compares the player's move with the computer's move and determines:
    Win
    Lose
    Tie
 
--Step 4: Update score
+- **Step 4: Update score**
    Depending on the result:
    Wins increase by 1
    Losses increase by 1
    Ties increase by 1
    
--Step 5: Save score
+- **Step 5: Save score**
    The updated score is stored in browser local storage:
    localStorage.setItem()
 
-Step 6: Display result
-The game updates:
-Match result
-Selected moves
-Updated score
+- **Step 6: Display result**
+   The game updates:
+   Match result
+   Selected moves
+   Updated score
 
 ## Project Preview
 
