@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Web Development Mini Projects
-=======
 # Web Development Mini Projects - TOTAL(5)
->>>>>>> 3f4a343 (Adding rock paper scissor web project)
+
 
 A collection of mini web development projects built while learning HTML, CSS and JavaScript.
 
@@ -244,6 +241,8 @@ localStorage.setItem()
 Step 6: Display result
 The game updates:
 Match result
+
+![Project Preview](project-5_Rock-Paper-Scissor/preview5.png)
 Selected moves
 Updated score
 
