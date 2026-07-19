@@ -1,11 +1,11 @@
-# Web Development Mini Projects - TOTAL(5)
+# Web Development Mini Projects - TOTAL(6)
 
 
 A collection of mini web development projects built while learning HTML, CSS and JavaScript.
 
 ---
 
-#  Total Projects : 5
+#  Total Projects : 6
 
 ---
 
