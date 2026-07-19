@@ -1,6 +1,5 @@
 # Web Development Mini Projects - TOTAL(6)
 
-
 A collection of mini web development projects built while learning HTML, CSS and JavaScript.
 
 ---
@@ -13,7 +12,7 @@ A collection of mini web development projects built while learning HTML, CSS and
 
 | Project No. | Project Name | Technologies |
 |---|---|---|
-|    1 | Subway Passenger Counter | HTML, CSS, JavaScript |
+| 1st | Subway Passenger Counter | HTML, CSS, JavaScript |
 
 
 ###  Description
@@ -56,7 +55,7 @@ A simple subway passenger counter application that allows users to:
 
 | Project No. | Project Name | Technologies |
 |---|---|---|
-| 2 | Black Jack | HTML, CSS, JavaScript |
+| 2nd | Black Jack | HTML, CSS, JavaScript |
 
 
 ### Description
@@ -94,7 +93,7 @@ This project demonstrates fundamental JavaScript concepts such as DOM manipulati
 
 | Project No. | Project Name | Technologies |
 |---|---|---|
-| 3 | Amazon Clone | HTML, CSS |
+| 3rd | Amazon Clone | HTML, CSS |
 
 ### Description
 
@@ -128,7 +127,7 @@ This project was created to practice front-end web development concepts such as 
 
 | Project No. |Project Name| Technologies |
 |---|---|---|
-| 4 | Link Tracker Extension | HTML, CSS , JavaScript |
+| 4th | Link Tracker Extension | HTML, CSS , JavaScript |
 
 ### Description
 
@@ -209,47 +208,89 @@ chrome://extensions/
 ### Algorithm
 
 - **Step 1: Player selects a move**
-   The player clicks one of the three buttons:
-   Rock
-   Paper
-   Scissors
+The player clicks one of the three buttons:
+Rock
+Paper
+Scissors
 
 - **Step 2: Computer selects a move**
-   The computer generates a random number using:
-   Math.random()
-   The random value determines the computer's move:
-   Range	Computer Move
-   0 - 1/3	     Rock
-   1/3 - 2/3	  Paper
-   2/3 - 1	     Scissors
+The computer generates a random number using:
+Math.random()
+The random value determines the computer's move:
+Range	Computer Move
+0 - 1/3	     Rock
+1/3 - 2/3	  Paper
+2/3 - 1	     Scissors
 
 - **Step 3: Compare moves**
-   The program compares the player's move with the computer's move and determines:
-   Win
-   Lose
-   Tie
+The program compares the player's move with the computer's move and determines:
+Win
+Lose
+Tie
 
 - **Step 4: Update score**
-   Depending on the result:
-   Wins increase by 1
-   Losses increase by 1
-   Ties increase by 1
-   
-- **Step 5: Save score**
-   The updated score is stored in browser local storage:
-   localStorage.setItem()
+Depending on the result:
+Wins increase by 1
+Losses increase by 1
+Ties increase by 1
+Step 5: Save score
+The updated score is stored in browser local storage:
+localStorage.setItem()
 
 - **Step 6: Display result**
-   The game updates:
-   Match result
-   Selected moves
-   Updated score
+The game updates:
+Match result
+Selected moves
+Updated score
 
 ## Project Preview
 
 ![Project Preview](project-5_Rock-Paper-Scissor/images/preview5.png)
 
 
+---
+
+## PROJECT - 6 : Todo List
+
+| Project No. |Project Name| Technologies |
+|---|---|---|
+| 6th | Todo List | HTML, CSS , JavaScript |
+
+### Description
+
+A simple and interactive **To-Do List Web Application** built using **HTML, CSS, and JavaScript**. This project allows users to add tasks with due dates, display them dynamically, and remove tasks when they are completed or no longer needed.
+
+---
+
+## Features
+
+- Add new tasks
+- Assign a due date to each task
+- Display tasks dynamically
+- Delete tasks instantly
+- Real-time updates without page refresh
+- Simple and user-friendly interface
 
 
+## What I Learned
 
+Through this project, I learned:
+
+- Creating webpage layouts using HTML.
+- Styling web pages with CSS.
+- Selecting HTML elements using `document.querySelector()`.
+- Handling button click events.
+- Working with arrays of objects.
+- Using object destructuring.
+- Using `push()` to add items to an array.
+- Using `splice()` to delete array elements.
+- Writing reusable JavaScript functions.
+- Dynamically updating the webpage using `innerHTML`.
+- Using template literals to generate HTML.
+- Rendering data without reloading the webpage.
+- Understanding the basics of DOM Manipulation.
+
+
+## Project Preview
+
+![Project Preview](project-6_Todo-List/preview6.png)
