@@ -335,4 +335,4 @@ A responsive cafe menu webpage built using HTML5 and CSS3. The project displays 
 
 ## Project Preview
 
-![Project Preview](project-7_Camper-Cafe-Menu\preview7.png)
+![Project Preview](project-7_Camper-Cafe-Menu/preview7.png)
