@@ -2,7 +2,7 @@
 
 | Project No. | Project Name | Technologies |
 |---|---|---|
-| 2nd | Black Jack | HTML, CSS, JavaScript |
+| 2 | Black Jack | HTML, CSS, JavaScript |
 
 
 ### Description
