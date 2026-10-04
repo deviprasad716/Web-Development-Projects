@@ -2,7 +2,7 @@
 
 | Project No. | Project Name | Technologies |
 |---|---|---|
-| 1st | Subway Passenger Counter | HTML, CSS, JavaScript |
+| 1 | Subway Passenger Counter | HTML, CSS, JavaScript |
 
 
 ###  Description
